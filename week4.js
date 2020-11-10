@@ -28,18 +28,16 @@ function draw() {
   //Task 2b - Turn the sun yellow
 
   noStroke();
-  ellipse(50,50,70,70); //Task 4, 7 subsitute the variables in here
+  ellipse(50,50,70,70); //Task 4,7 substitute the variable names in here
   
   
   // Task 5, uncomment the code below. What happens to our sun? 
-  // position ++;
+  // position = position + 1;
   
-  // Task 6, now how can we make the sun start at the right side of the screen and move backwards
-
+  // Task 6, now how can we make the sun start at the right side of the screen and move to the left side? 
   
   
-  //Frog
-  
+  // Frog
   //frog's face
   //Task 2c - Turn the frog green 
   
