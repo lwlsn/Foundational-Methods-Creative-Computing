@@ -27,7 +27,6 @@ function draw() {
   
   
   // clouds 
-  fill(255, 255, 255);
   // left cloud
   ellipse(leftX, 150, 126, 97);
   ellipse(leftX+62, 150, 70, 60);
