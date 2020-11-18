@@ -60,7 +60,5 @@ function draw() {
   fill(0);
   ellipse(frogX+100, frogY-75, 40, 40);
   
- 
-  
   
 }
