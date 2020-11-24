@@ -83,7 +83,7 @@ function draw() {
 //   }
 //   if (keyCode === ) {
    
-//   } else if (keyCode === RIGHT_ARROW) {
+//   } else if (keyCode === ) {
 
 //   }
   
