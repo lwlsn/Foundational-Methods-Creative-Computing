@@ -60,20 +60,22 @@ function draw() {
 //   }
   
 //   if (snakeX < 0) {
-//     snakeX = width;
+//     snakeX =;
 //   }
   
 //   if (snakeY > height){
-//     snakeY = 0;
+//     snakeY =;
 //   }
   
 //   if (snakeY < 0) {
-//     snakeY = height;
+//     snakeY = ;
 //   }
   
   // Task 7
-  // if (dist ( foodX,foodY, circleX, circleY) < 20) {
-  //     // Turn the circle black and stop it moving.
+  // if (dist ( foodX,foodY, snakeX, snakeY) < 20) {
+  //     // Stop the circle moving.. 
+          // speedX = ;
+          // speedY = ;
   // }
   
   
@@ -83,17 +85,17 @@ function draw() {
 
 // Task 6 - When keys are pressed, change the direction of the circle on the screen. 
 // function keyPressed() {
-//    if (keyCode === ) {
+//    if (keyCode === UP_ARROW) {
 //     speedX = ;
 //     speedY = ;
-//   } else if (keyCode === ) {
+//   } else if (keyCode ===  DOWN_ARROW) {
 //     speedX = ;
 //     speedY = ;
 //   }
-//   else if (keyCode === ) {
+//   else if (keyCode === LEFT_ARROW) {
 //     speedX = -2;
 //     speedY = 0;
-//   } else if (keyCode === ) {
+//   } else if (keyCode === RIGHT_ARROW) {
 //     speedX = 2;
 //     speedY = 0;
 //   }
